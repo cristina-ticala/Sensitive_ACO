@@ -1,2 +1,2 @@
 # Sensitive_ACO
-Rezultate pentru Sensitive ACO
+Results for Sensitive ACO (SACO)
